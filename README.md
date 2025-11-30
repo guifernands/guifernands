@@ -5,7 +5,7 @@
 I am an **Analysis and Development of Systems** student, complimenting my studies with external courses and side projects. I am passionate about building interfaces and I'm constantly looking to expand my knowledge and experiment with new technologies.
 
 - 🎓 Currently studying Information Technology (IT)
-- 📚 Currently focused on deepening my knowledge in **JavaScript and JS Frameworks** and Web Development
+- 📚 Currently focused on deepening my knowledge in **JavaScript**, **JS Frameworks** and **Web Development**
 
 ---
 
