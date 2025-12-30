@@ -1,4 +1,4 @@
-# Oii, eu sou o Gui! 👋
+# Olá, eu sou o Gui! 👋
 
 ## 👨‍💻 Front-end Developer
 
