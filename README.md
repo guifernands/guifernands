@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Front-end Developer
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, complementando meus estudos com cursos externos e projetos paralelos. Sou apaixonado por desenvolvimento de interfaces e estou sempre buscando expandir meu conhecimento e experimentar novas tecnologias.
+Sou estudante de **Sistemas da Informação**, complementando meus estudos com cursos externos e projetos paralelos. Sou apaixonado por desenvolvimento e estou sempre buscando expandir meu conhecimento e experimentar novas tecnologias.
 
 - 🎓 Atualmente estudando Técnologia da Informação (TI)
 - 📚 Focado em aprofundar meus conhecimentos em **JavaScript**, **JS Frameworks** e **Desenvolvimento Web**
