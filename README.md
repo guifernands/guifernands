@@ -16,9 +16,20 @@ Sou estudante de **Sistemas da Informação**, complementando meus estudos com c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gui-fernands&show_icons=true&theme=dracula" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-fernands&layout=compact&theme=dracula" width="300px" />
+</div>
 
 ---
 
