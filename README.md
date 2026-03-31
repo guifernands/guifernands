@@ -24,15 +24,6 @@ Sou estudante de **Sistemas da Informação**, complementando meus estudos com c
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gui-fernands&show_icons=true&theme=dracula" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-fernands&layout=compact&theme=dracula" width="300px" />
-</div>
-
----
-
 ### 📫 Contate-me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-fernands)
