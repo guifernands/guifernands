@@ -1,6 +1,6 @@
 # Olá, eu sou o Gui! 👋
 
-## 👨‍💻 Front-end Developer
+## 👨‍💻 Fullstack Developer
 
 Sou estudante de **Sistemas da Informação**, complementando meus estudos com cursos externos e projetos paralelos. Sou apaixonado por desenvolvimento e estou sempre buscando expandir meu conhecimento e experimentar novas tecnologias.
 
