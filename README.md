@@ -1,6 +1,6 @@
 # Olá, eu sou o Gui! 👋
 
-## 👨‍💻 Desenvolvedor Front-end / Full Stack
+## 👨‍💻 Desenvolvedor Full Stack
 
 Sou estudante de **Sistemas da Informação pela UNISINOS** e estou em busca de oportunidades como **Estagiário ou Desenvolvedor Júnior em TI**, com foco em **Front-end, Full Stack e Desenvolvimento Web**.
 
